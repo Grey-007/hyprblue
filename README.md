@@ -1,0 +1,2 @@
+# hyprblue
+omarchy theme
