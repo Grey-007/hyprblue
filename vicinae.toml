@@ -1,0 +1,32 @@
+[meta]
+version = 1
+name = "Omarchy"
+description = "Follow your Omarchy system theme."
+variant = "dark"
+inherits = "vicinae-dark"
+icon = "/home/grey/.local/share/omarchy/icon.png"
+
+[colors.core]
+background = "#000d10"
+foreground = "#00e1ff"
+secondary_background = "#051215"
+border = "#289dbc"
+accent = "#4ff9fd"
+
+[colors.list.item.hover]
+background = "#0a171a"
+foreground = "#00e1ff"
+
+[colors.list.item.selection]
+background = "#0f1c1f"
+foreground = "#00e1ff"
+
+[colors.accents]
+blue = "#3db7ff"
+green = "#3dffe5"
+magenta = "#72b4fc"
+orange = "#4ff9fd"
+purple = "#d4e9ff"
+red = "#22f9b9"
+yellow = "#b2fdff"
+cyan = "#3d78ff"
