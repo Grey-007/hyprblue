@@ -1,2 +1,6 @@
-@define-color background #000d10;
+@define-color background rgba(0,13,16,0.25);
 @define-color foreground #00d1ff;
+
+#waybar{
+    backdrop-filter: blur(10px);
+}
