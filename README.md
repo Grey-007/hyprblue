@@ -30,7 +30,7 @@ This will automatically place everything in the right place and apply the theme.
 
 Preview the look of the HyprBlue theme:
 
-![Screenshot 1](./screenshot/screenshot1.png)
+![Screenshot 1](./screenshot/screenshot001.png)
 ![Screenshot 2](./screenshot/screenshot2.png)
 
 
